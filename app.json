@@ -1,7 +1,7 @@
 {
   "name": "VCPlayBot",
-  "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "logo": "https://telegra.ph/file/9995624d49de3eb6528a8.png",
+  "description": "Fur-Source bot si aad ugu daarto Dhageesiga Kooxda Telegram kaaga Chat Codka. Powered by OsmaniNet.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/QueenArzoo/VCPlayBot",
   "stack": "container",
@@ -31,12 +31,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "AwesomeSupport"
+      "value": "osmanigroupbot"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "VCPlayBot2.0"
+      "value": "OsmaniVc.0"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -50,12 +50,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/9b13ea3ce046a1a5c8098.png"
+      "value": "https://telegra.ph/file/9b13ea3cehttps://telegra.ph/file/ba0be1aae64c83297d12a.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "LaylaList"
+      "value": "osmanibots"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
