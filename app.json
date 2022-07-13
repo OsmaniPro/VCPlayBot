@@ -1,9 +1,9 @@
 {
-  "name": "VCPlayBot",
+  "name": "OsmaniVCbot",
   "logo": "https://telegra.ph/file/9995624d49de3eb6528a8.png",
   "description": "Fur-Source bot si aad ugu daarto Dhageesiga Kooxda Telegram kaaga Chat Codka. Powered by OsmaniNet.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/QueenArzoo/VCPlayBot",
+  "repository": "https://github.com/OsmaniPro/VCPlayBot",
   "stack": "container",
   "buildpacks": [
    {
